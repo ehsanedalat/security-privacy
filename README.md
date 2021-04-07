@@ -1,2 +1,2 @@
-# pentestcheatsheet
+# PenTest CheatSheets
 This is a repo for pentest cheatsheets which I have found useful!!
