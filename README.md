@@ -11,3 +11,6 @@ Visit https://book.hacktricks.xyz/pentesting-web/file-upload for file upload che
 
 Visit https://github.com/modzero/mod0BurpUploadScanner for upload scanner for burp. `#uploadScanner`
 
+Visit https://deepscan.io/demo/ for statically analyzing JS, VUE, and React code. `#staticAnalysis`
+
+Visit http://www.pentest-standard.org/index.php/PTES_Technical_Guidelines for pentest methodology. `#methodology`
