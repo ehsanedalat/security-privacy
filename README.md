@@ -14,3 +14,7 @@ Visit https://github.com/modzero/mod0BurpUploadScanner for upload scanner for bu
 Visit https://deepscan.io/demo/ for statically analyzing JS, VUE, and React code. `#staticAnalysis`
 
 Visit http://www.pentest-standard.org/index.php/PTES_Technical_Guidelines for pentest methodology. `#methodology`
+
+Visit https://book.hacktricks.xyz/windows/windows-local-privilege-escalation/dpapi-extracting-passwords for DPAPI - Extracting Passwords. `#Crypto` 
+
+Visit https://www.beyondtrust.com/resources/glossary/pass-the-hash-pth-attack ​for Pass-the-Hash(PtH) Attack. `#Crypto` 
