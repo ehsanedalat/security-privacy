@@ -18,3 +18,5 @@ Visit http://www.pentest-standard.org/index.php/PTES_Technical_Guidelines for pe
 Visit https://book.hacktricks.xyz/windows/windows-local-privilege-escalation/dpapi-extracting-passwords for DPAPI - Extracting Passwords. `#Crypto` 
 
 Visit https://www.beyondtrust.com/resources/glossary/pass-the-hash-pth-attack ​for Pass-the-Hash(PtH) Attack. `#Crypto` 
+
+Visit https://www.acunetix.com/blog/articles/tls-vulnerabilities-attacks-final-part/ ​for TLS Vulnerabilities. `#TLS` 
