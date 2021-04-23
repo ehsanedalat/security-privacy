@@ -20,3 +20,5 @@ Visit https://book.hacktricks.xyz/windows/windows-local-privilege-escalation/dpa
 Visit https://www.beyondtrust.com/resources/glossary/pass-the-hash-pth-attack ​for Pass-the-Hash(PtH) Attack. `#Crypto` 
 
 Visit https://www.acunetix.com/blog/articles/tls-vulnerabilities-attacks-final-part/ ​for TLS Vulnerabilities. `#TLS` 
+
+Visit https://www.cloudinsidr.com/content/known-attack-vectors-against-tls-implementation-vulnerabilities/ for Attack vectors against TLS. `#TLS` 
