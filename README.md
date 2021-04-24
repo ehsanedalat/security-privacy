@@ -22,3 +22,5 @@ Visit https://www.beyondtrust.com/resources/glossary/pass-the-hash-pth-attack â€
 Visit https://www.acunetix.com/blog/articles/tls-vulnerabilities-attacks-final-part/ â€‹for TLS Vulnerabilities. `#TLS` 
 
 Visit https://www.cloudinsidr.com/content/known-attack-vectors-against-tls-implementation-vulnerabilities/ for Attack vectors against TLS. `#TLS` 
+
+Visit https://github.com/juliocesarfort/public-pentesting-reports for PenTesting report samples. `#Rport`
