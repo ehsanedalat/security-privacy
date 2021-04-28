@@ -24,3 +24,5 @@ Visit https://www.acunetix.com/blog/articles/tls-vulnerabilities-attacks-final-p
 Visit https://www.cloudinsidr.com/content/known-attack-vectors-against-tls-implementation-vulnerabilities/ for Attack vectors against TLS. `#TLS` 
 
 Visit https://github.com/juliocesarfort/public-pentesting-reports for PenTesting report samples. `#Report`
+
+Visit https://cheatsheetseries.owasp.org/cheatsheets/REST_Security_Cheat_Sheet.html for REST Security Cheat Sheet. `#API`
