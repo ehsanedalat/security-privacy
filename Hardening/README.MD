@@ -6,4 +6,4 @@ Visit https://www.microsoft.com/en-us/download/details.aspx?id=55319 for Microso
 
 Visit https://www.cisecurity.org/benchmark/microsoft_windows_desktop/ for CIS Microsoft Windows Desktop Benchmarks. `#Win-CIS`
 
-Visit https://github.com/konstruktoid/hardening for Ubuntu Hardening automated tool. `#Ubuntu-Auto`
+Visit https://github.com/konstruktoid/hardening for Ubuntu automated hardening tool. `#Ubuntu-Auto`
