@@ -5,3 +5,5 @@ Visit https://techcommunity.microsoft.com/t5/microsoft-security-baselines/securi
 Visit https://www.microsoft.com/en-us/download/details.aspx?id=55319 for Microsoft Security Compliance Toolkit. `#Win-GPO`
 
 Visit https://www.cisecurity.org/benchmark/microsoft_windows_desktop/ for CIS Microsoft Windows Desktop Benchmarks. `#Win-CIS`
+
+Visit https://github.com/konstruktoid/hardening for Ubuntu Hardening automated guid. `#Ubuntu-Auto`
