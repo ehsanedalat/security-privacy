@@ -13,3 +13,7 @@ Visit https://github.com/konstruktoid/hardening for Ubuntu automated hardening t
 `VMWare`
 
 Visit https://github.com/vmware/dod-compliance-and-automation for VCenter, VSphere, ESXi, and VMWare hardening tool. `#VMWare-Auto`
+
+`OpenVPN`
+
+Visit https://blog.securityevaluators.com/hardening-openvpn-in-2020-1672c3c4135a for OpenVPN hardening. `#OpenVPN`
