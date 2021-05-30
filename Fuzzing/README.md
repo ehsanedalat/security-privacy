@@ -1,7 +1,7 @@
 `Tools:`
 
-https://github.com/aoh/radamsa       random fuzzer
+https://github.com/aoh/radamsa  `#random_fuzzer`
 
-https://gitlab.com/gitlab-org/security-products/protocol-fuzzer-ce         peach fuzzer
+https://gitlab.com/gitlab-org/security-products/protocol-fuzzer-ce  `#peach_fuzzer`
 
-https://github.com/OpenRCE/sulley      Protocol fuzzer
+https://github.com/OpenRCE/sulley `#protocol_fuzzer`
