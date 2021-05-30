@@ -1,4 +1,4 @@
-// RUN: clang -O -g -fsanitize=address %t && ./a.out
+// RUN: clang -O -g -fsanitize=address stack_overflow.c && ./a.out
 #include <stdio.h>
 #include <stdlib.h>
 int main(int argc, char **argv) {
