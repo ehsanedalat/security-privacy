@@ -13,3 +13,21 @@ int main(int argc, char **argv) {
   stack_array[0] = 0;
   return stack_array[index];  // BOOM
 }
+/*
+Execution result code in bash:
+
+https://www.cyberciti.biz/faq/linux-bash-exit-status-set-exit-statusin-bash/
+
+
+Execution result code in bash:
+
+$?
+
+ex) echo $?
+
+0      Successfull
+
+127   Command not found
+
+139   Segmentation fualt
+*/
