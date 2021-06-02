@@ -1,4 +1,4 @@
-# Exploiting of heap overflow in dtls server
+# Exploiting heap overflow in dtls server
 
 `How to:`
 1. Download matrixssl 4.2.1-open version from: https://github.com/matrixssl/matrixssl
