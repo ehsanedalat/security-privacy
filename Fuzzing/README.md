@@ -1,3 +1,5 @@
+`Fuzz your code because if you don’t, someone else will.`
+
 # Fuzzing Tools
 
 https://github.com/aoh/radamsa  `#random_fuzzer`
