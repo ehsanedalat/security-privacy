@@ -13,7 +13,7 @@ do
 		w=$((w+1))
 		echo "RES: "$X
 		test $X -gt 0 && break
-		test $q -lt 1000 && break
+		test $q -gt 1000 && break
 	done
 	test $X -gt 0 && break
 done
