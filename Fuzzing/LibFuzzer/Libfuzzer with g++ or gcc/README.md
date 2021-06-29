@@ -9,10 +9,11 @@ Link: https://github.com/google/clusterfuzz/issues/920
 2. Run the build script to build libFuzzer:
 
 `$ cd fuzzer`
+
 `$ bash ./build.sh`  
 
 3. Build the example fuzzer using gcc/g++ and link against libFuzzer:
 
 `$ g++ -fsanitize=address -fsanitize-coverage=trace-pc stack_overflow.cc /path/to/libFuzzer.a -o fuzzer -lpthread`
 
-4. ./fuzzer CORPUSDIR
+4. Run `./fuzzer CORPUSDIR`
