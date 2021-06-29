@@ -1,4 +1,4 @@
-# LibFuzzer
+# LibFuzzer with clang\clang++
 Link: https://llvm.org/docs/LibFuzzer.html
 
 `How to:`
