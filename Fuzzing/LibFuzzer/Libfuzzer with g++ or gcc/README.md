@@ -1,4 +1,4 @@
-# LibFuzzer with g++
+# LibFuzzer with g++\gcc
 Link: https://github.com/google/clusterfuzz/issues/920
 
 `How to:`
