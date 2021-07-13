@@ -1,5 +1,5 @@
 # Security360
-This is a repo for all links and tools in the security field which I have found useful!!
+This is a repo for all links and tools in the security field which we have found useful!!
 
 The categories are:
 
@@ -9,3 +9,10 @@ The categories are:
 4. [Attack Scenarios](./Attack%20Scenarios/)
 5. [Software Architecture Books](https://github.com/mhadidg/software-architecture-books)
 6. [Threat modelling](./Threat%20modelling)
+
+
+
+##Contributors:
+
+1. [Mahmoud Aghvamipanah](https://github.com/mahmoudaghvami)
+2. [Ehsan Edalat](https://github.com/ehsanedalat)
