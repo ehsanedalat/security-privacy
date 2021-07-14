@@ -1,6 +1,6 @@
 This is a repo for Threat modelling cheat sheets:
 
-Visit https://insights.sei.cmu.edu/blog/threat-modeling-12-available-methods/ for Threat Modeling: 12 Available Methods. #Methods
+Visit https://insights.sei.cmu.edu/blog/threat-modeling-12-available-methods/ for Threat Modeling: 12 Available Methods. `#Methods`
 
 1 **STRIDE**
 
