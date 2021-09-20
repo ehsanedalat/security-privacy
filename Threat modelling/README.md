@@ -20,3 +20,8 @@ This hybrid method consists of attack trees, STRIDE, and CVSS methods applied in
 
 The first step of the Quantitative Threat Modeling Method (Quantitative TMM) is to build component attack trees for the five threat categories of STRIDE. This activity shows the dependencies among attack categories and low-level component attributes. After that, the CVSS method is applied and scores are calculated for the components in the tree.
 
+## Mobile Threat Modeling
+
+NIST: [Link](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-4.pdf)
+
+DHS: [Link](https://www.dhs.gov/publication/st-mobile-device-security-study)
