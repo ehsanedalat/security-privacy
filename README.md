@@ -10,6 +10,7 @@ The categories are:
 5. [Software Architecture Books](https://github.com/mhadidg/software-architecture-books)
 6. [Threat modelling](./Threat%20modelling)
 7. [Security Solutions](./Security%20Solutions)
+8. [Privacy](./Privacy)
 
 
 
