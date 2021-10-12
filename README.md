@@ -9,7 +9,7 @@ The categories are:
 4. [Attack Scenarios](./Attack%20Scenarios/)
 5. [Software Architecture Books](https://github.com/mhadidg/software-architecture-books)
 6. [Threat modelling](./Threat%20modelling)
-7. [Security Solution](./Security%20Solutions)
+7. [Security Solutions](./Security%20Solutions)
 
 
 
