@@ -11,6 +11,7 @@ The categories are:
 6. [Threat modelling](./Threat%20modelling)
 7. [Security Solutions](./Security%20Solutions)
 8. [Privacy](./Privacy)
+9. [Hardware](./Hardware)
 
 
 
