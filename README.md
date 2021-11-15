@@ -12,6 +12,7 @@ The categories are:
 7. [Security Solutions](./Security%20Solutions)
 8. [Privacy](./Privacy)
 9. [Hardware](./Hardware)
+10. [Application Vetting](./Application%20Vetting)
 
 
 
