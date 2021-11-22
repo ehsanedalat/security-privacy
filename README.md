@@ -13,6 +13,7 @@ The categories are:
 8. [Privacy](./Privacy)
 9. [Hardware](./Hardware)
 10. [Application Vetting](./Application%20Vetting)
+11. [Reverse Engineering](./Reverse%20Engineering)
 
 
 
