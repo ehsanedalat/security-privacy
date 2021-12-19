@@ -12,7 +12,7 @@ This is a repo for all links and tools in the security and privacy field which w
 
 The categories are:
 
-1. [PenTest](./PenTest.md)
+1. [PenTest](https://github.com/ehsanedalat/security-privacy/tree/main/PenTest)
 2. [Fuzzing](https://github.com/ehsanedalat/security-privacy/tree/main/Fuzzing/)
 3. [Hardening](https://github.com/ehsanedalat/security-privacy/tree/main/Hardening/)
 4. [Attack Scenarios](https://github.com/ehsanedalat/security-privacy/tree/main/Attack%20Scenarios/)
