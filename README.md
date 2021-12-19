@@ -1,5 +1,5 @@
-# Security360
-This is a repo for all links and tools in the security field which we have found useful!!
+# S&P Repository
+This is a repo for all links and tools in the security and privacy field which we have found useful!!
 
 The categories are:
 
@@ -16,8 +16,10 @@ The categories are:
 11. [Reverse Engineering](./Reverse%20Engineering)
 
 
+## Blog Posts
+You can find recent blog posts in this [LINK](https://ehsanedalat.github.io/security-privacy/).
 
 ## Contributors
 
-1. [Mahmoud Aghvamipanah](https://github.com/mahmoudaghvami)
-2. [Ehsan Edalat](https://github.com/ehsanedalat)
+1. [Ehsan Edalat](https://github.com/ehsanedalat)
+2. [Mahmoud Aghvamipanah](https://github.com/mahmoudaghvami)
