@@ -5,4 +5,4 @@ In this weblog, I publish my recent findings in security and privacy field as a 
 ### Security Posts
 
 - `2021`
-  - [log4j vulnerabale technologies](./2021/12/18/log4j-Vulnerable-Sites)
+  - [log4j vulnerabale technologies](./2021/12/19/log4j.html)
