@@ -8,7 +8,7 @@ In this weblog, I publish my recent findings in security and privacy field as a 
   - [log4j vulnerabale technologies](./2021/12/19/log4j.html)
 
 ### Security and Privacy Repository
-This is a repo for all links and tools in the security and privacy field which we have found useful!!
+This is a repo for all links and tools in the security and privacy field which we have found useful!!!
 
 The categories are:
 
