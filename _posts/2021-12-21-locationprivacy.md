@@ -1,5 +1,6 @@
 ### Your location data are being theft!
-In this post, I will briefly discuss issues of location data leakage in smartphones. There are four ways to leak this data.
+
+An example of location data leakage is the [Strava](https://www.strava.com/) application. This app is a fitness application. In 2018, this app published the location information of its users. It is about three billion records. You can find the published heatmap at this [link](https://www.strava.com/heatmap#7.00/-120.90000/38.36000/hot/all). [Guardian](https://www.theguardian.com/world/2018/jan/28/fitness-tracking-app-gives-away-location-of-secret-us-army-bases) reports that one of the American military bases in Helmand of Afghanistan has been located by this map. In this post, I will briefly discuss issues of location data leakage in smartphones. There are four ways to leak this data.
 
 1. leakage of location data from the cellular network infrastructure.
   - leakage from the operator of the network.
