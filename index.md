@@ -5,6 +5,7 @@ In this weblog, I publish my recent findings in security and privacy field as a 
 ### Security Posts
 
 - `2021`
+  - [Digital Forensics Labs](./2021/12/22/DigitalForensicsLabs)
   - [log4j vulnerabale technologies](./2021/12/19/log4j.html)
 
 ### Privacy Posts
@@ -27,3 +28,4 @@ The categories are:
 9. [Hardware](https://github.com/ehsanedalat/security-privacy/tree/main/Hardware)
 10. [Application Vetting](https://github.com/ehsanedalat/security-privacy/tree/main/Application%20Vetting)
 11. [Reverse Engineering](https://github.com/ehsanedalat/security-privacy/tree/main/Reverse%20Engineering)
+12. [Digital Forensics](https://github.com/ehsanedalat/security-privacy/tree/main/Digital%20Forensics)
