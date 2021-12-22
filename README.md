@@ -14,6 +14,7 @@ The categories are:
 9. [Hardware](./Hardware)
 10. [Application Vetting](./Application%20Vetting)
 11. [Reverse Engineering](./Reverse%20Engineering)
+12. [Digital Forensics](./Digital%20Forensics)
 
 
 ## Blog Posts
