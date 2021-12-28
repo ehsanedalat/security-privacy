@@ -5,12 +5,12 @@ In this weblog, I publish my recent findings in security and privacy field as a 
 ### Security Posts
 
 - `2021`
-  - [Digital Forensics Labs](./2021/12/22/DigitalForensicsLabs)
-  - [log4j vulnerabale technologies](./2021/12/19/log4j.html)
+  - [Digital Forensics Labs](./posts/2021/DigitalForensicsLabs/)
+  - [log4j vulnerabale technologies](./posts/2021/log4j/)
 
 ### Privacy Posts
 - `2021`
-  - [Your location data are being theft!](./2021/12/21/locationprivacy.html) 
+  - [Your location data are being theft!](./posts/2021/locationprivacy/) 
 
 ### Security and Privacy Repository
 This is a repo for all links and tools in the security and privacy field which we have found useful!!!
