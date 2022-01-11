@@ -15,7 +15,7 @@ In the second approach, we can get help from the TPM module. In other words, we 
 
 It is worth mentioning that the integrity of UEFI software is essential and should be checked somewhere. Intel processor has [Bootgurad](https://trmm.net/Bootguard/) as the answer for this issue. If the Bootguard policy is in the enforced mode, the checksum of the UEFI is stored in the One Time Program (OTP) fuse in the processor. Each time the UEFI is going to run, its integrity is verified. If it is not confirmed, the device is shut down.
 
-Another issue is that the UEFI software is closed source. Therefore, we can not completely trust it. Coreboot is an alternative open-source firmware software. We could manage the secure boot, including TPM, with the help of Coreboot. We should keep in mind that we can install Coreboot when complete access to Bootguard configurations is possible.
+Another issue is that the UEFI software is closed source. Therefore, we can not completely trust it. [Coreboot](https://coreboot.org/) is an alternative open-source firmware software. We could manage the secure boot, including TPM, with the help of Coreboot. We should keep in mind that we can install Coreboot when complete access to Bootguard configurations is possible.
 
 In summary, we conclude that it is a three-phase path for enforcing secure boot:
 
