@@ -4,6 +4,8 @@ In this weblog, I publish my recent findings in security and privacy field as a 
 
 ### Security Posts
 
+- `2022`
+  - [Secure Boot](./posts/2022/secureboot/)
 - `2021`
   - [Digital Forensics Labs](./posts/2021/DigitalForensicsLabs/)
   - [log4j vulnerabale technologies](./posts/2021/log4j/)
