@@ -7,7 +7,7 @@ tags:
   - hardening
 ---
 
-###An Introduction to secure booting
+### An Introduction to secure booting
 
 In this post, I will present my recent findings on secure booting. When the OS boot, some programs run in sequence. Each program runs its next program's code. If there is no security feature during boot, an attacker can inject his malicious code into one of the booting programs. Therefore, he can get complete control of the compromised system. The complete threat modeling for the boot process is described in this [link](https://safeboot.dev/threats/). The secure boot mechanism is the defense of such an attack. The checksum of each booting program is calculated and verified during the boot process. In other words, each program proves the integrity of the following running program. Therefore, an attacker can not inject his malicious code. Two different approaches can do this process. The first approach entirely relies on the firmware software, which starts the booting process. For example, for the Debian-based OSes, we can use the method that describes in this [link](https://wiki.debian.org/SecureBoot) and this [link](https://wiki.ubuntu.com/UEFI/SecureBoot). 
 
