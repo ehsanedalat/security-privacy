@@ -17,9 +17,9 @@ It is worth mentioning that the integrity of UEFI software is essential and shou
 
 Another issue is that the UEFI software is closed source. Therefore, we can not completely trust it. [Coreboot](https://coreboot.org/) is an alternative open-source firmware software. We could manage the secure boot, including TPM, with the help of Coreboot. We should keep in mind that we can install Coreboot when complete access to Bootguard configurations is possible.
 
-In summary, we conclude that it is a three-phase path for enforcing secure boot:
+In summary, we conclude that it is a four-phase path for enforcing secure boot:
 
 1. Implementing Software Approach (UEFI Secure Boot)
-2. Implementing Software and Hardware Approach with the help of TPM (SafeBoot)
-3. Protecting the integrity of UEFI (Bootguard policy) 
-4. Installing open-source Coreboot firmware with enabled Bootguard policy
+2. Implementing Software and Hardware Approach with the help of TPM (Closed source UEFI+SafeBoot)
+3. Protecting the integrity of UEFI (Bootguard policy+Closed source UEFI+Safeboot) 
+4. Installing open-source Coreboot firmware with enabled Bootguard policy (Bootguard+Coreboot+TPM)
