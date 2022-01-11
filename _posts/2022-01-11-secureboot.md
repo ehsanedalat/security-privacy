@@ -19,7 +19,7 @@ Another issue is that the UEFI software is closed source. Therefore, we can not 
 
 In summary, we conclude that it is a four-phase path for enforcing secure boot:
 
-1. Implementing Software Approach (UEFI Secure Boot)
-2. Implementing Software and Hardware Approach with the help of TPM (Closed source UEFI+SafeBoot)
-3. Protecting the integrity of UEFI (Bootguard policy+Closed source UEFI+Safeboot) 
-4. Installing open-source Coreboot firmware with enabled Bootguard policy (Bootguard+Coreboot+TPM)
+1. Implementing Software Approach (`UEFI Secure Boot`)
+2. Implementing Software and Hardware Approach with the help of TPM (`Closed source UEFI` + `SafeBoot`)
+3. Protecting the integrity of UEFI (`Bootguard policy` + `Closed source UEFI` + `Safeboot`) 
+4. Installing open-source Coreboot firmware with enabled Bootguard policy (`Bootguard` + `Coreboot` + `TPM`)
