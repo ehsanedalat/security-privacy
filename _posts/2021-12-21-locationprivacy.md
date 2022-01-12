@@ -26,3 +26,9 @@ When you search in Google or purchase a book from Amazon, servers of these onlin
   - When you are taking a photo, the camera saves your location in your image's metadata. Therefore, backup applications like Backup and Sync could access your location data.
 4. leakage of location data from the applications.
 Applications like Google Maps, Whatsapp, and Instagram collect your location data.
+
+
+<!-- Default Statcounter code for My Homepage http://ehsanedalat.github.io -->
+<script type="text/javascript" src="scripts/statcounter.js"/>
+
+<!-- End of Statcounter Code -->
