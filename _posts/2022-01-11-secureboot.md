@@ -26,6 +26,6 @@ In summary, we conclude that it is a four-phase path for enforcing secure boot:
 
 
 <!-- Default Statcounter code for My Homepage http://ehsanedalat.github.io -->
-<script type="text/javascript" src="../scripts/statcounter.js"/>
+<script type="text/javascript" src="../../../scripts/statcounter.js"/>
 
 <!-- End of Statcounter Code -->
