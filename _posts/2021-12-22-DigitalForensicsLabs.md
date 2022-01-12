@@ -13,6 +13,6 @@ In this [Link](https://github.com/frankwxu/digital-forensics-lab), you can find 
 
 
 <!-- Default Statcounter code for My Homepage http://ehsanedalat.github.io -->
-<script type="text/javascript" src="scripts/statcounter.js"/>
+<script type="text/javascript" src="../../../scripts/statcounter.js"/>
 
 <!-- End of Statcounter Code -->
