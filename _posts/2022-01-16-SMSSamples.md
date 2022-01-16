@@ -12,11 +12,11 @@ tags:
 
 In this post, I will introduce the most popular secure mobile solutions globally. You can find the list of solutions below.
 
-[Bittium Tough Mobile](https://toughmobile2.bittium.com/c/)
-[Purism Librem 5](https://puri.sm/products/librem-5/)
-[Solarin From Sirin Labs](https://www.solarin.com/)
-[PinePhone](https://www.pine64.org/pinephone/)
-[CryptoPhone](https://www.cryptophone.de/)
+- [Bittium Tough Mobile](https://toughmobile2.bittium.com/c/)
+- [Purism Librem 5](https://puri.sm/products/librem-5/)
+- [Solarin From Sirin Labs](https://www.solarin.com/)
+- [PinePhone](https://www.pine64.org/pinephone/)
+- [CryptoPhone](https://www.cryptophone.de/)
 
 
 <!-- Default Statcounter code for My Homepage http://ehsanedalat.github.io -->
