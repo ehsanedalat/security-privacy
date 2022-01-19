@@ -2,6 +2,9 @@
 
 In this weblog, I publish my recent findings in security and privacy field as a short posts. The posts are organized by publishing dates.
 
+### Security NEWS
+You can find the latest security news from this [link](https://ehsanedalat.github.io/securitynews/).
+
 ### Security Posts
 
 - `2022`
