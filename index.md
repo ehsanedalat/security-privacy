@@ -5,6 +5,7 @@ In this weblog, I publish my recent findings in security and privacy field as a 
 ### Security Posts
 
 - `2022`
+  - [Pithus](./posts/2022/Pithus/)
   - [Secure Mobile Solutions](./posts/2022/SMSSamples/)
   - [API Security](./posts/2022/apisecurity/)
   - [Secure Boot](./posts/2022/secureboot/)
