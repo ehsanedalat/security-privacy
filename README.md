@@ -20,6 +20,9 @@ The categories are:
 ## Blog Posts
 You can find recent blog posts in this [LINK](https://ehsanedalat.github.io/security-privacy/).
 
+## News
+You can find recent news of security and privacy field [here](https://ehsanedalat.github.io/securitynews/).
+
 ## Contributors
 
 1. [Ehsan Edalat](https://github.com/ehsanedalat)
