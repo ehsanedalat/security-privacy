@@ -5,3 +5,4 @@ This is a repo for multiple methods of application vetting. Methods are evaluati
 
 ## Android Apps Security Evaluation and Malware Analysis
 1. https://github.com/ashishb/android-security-awesome
+2. https://github.com/saeidshirazi/awesome-android-security
