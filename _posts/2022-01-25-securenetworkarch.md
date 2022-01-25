@@ -1,7 +1,7 @@
 ---
 title: 'Secure Network Arch'
 date: 2022-01-25
-permalink: /posts/2021/securenetworkarch/
+permalink: /posts/2022/securenetworkarch/
 tags:
   - security
   - network Architecture solution
