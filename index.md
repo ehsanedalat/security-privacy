@@ -8,6 +8,7 @@ You can find the latest security news from this [link](https://ehsanedalat.githu
 ### Security Posts
 
 - `2022`
+  - [Secure Network Architecture](./posts/2022/securenetworkarch/) 
   - [Pithus](./posts/2022/Pithus/)
   - [Secure Mobile Solutions](./posts/2022/SMSSamples/)
   - [API Security](./posts/2022/apisecurity/)
