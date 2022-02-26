@@ -8,6 +8,7 @@ You can find the latest security news from this [link](https://ehsanedalat.githu
 ### Security Posts
 
 - `2022`
+  - [Cisco Secure Architecture Guideline](./posts/2022/SAFE/) 
   - [Open Source Security Tools](./posts/2022/opensourcestuff/)
   - [Secure Network Architecture](./posts/2022/securenetworkarch/) 
   - [Pithus](./posts/2022/Pithus/)
