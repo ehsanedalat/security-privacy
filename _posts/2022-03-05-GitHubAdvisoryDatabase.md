@@ -6,7 +6,9 @@ tags:
   - security
   - vulnerability
 ---
-###GitHub Advisory DatabaseYou can find the GitHub Advisory Database in [this](https://github.com/advisories?query=mail+type%3Areviewed) and [this](https://github.com/github/advisory-database) links. This is a database of all security vulnerabilities which has been found in open-sourced software. This is a good place to learn security vulnerabilities. Also, you can take advantage of them to learn fuzzing their source code. 
+### GitHub Advisory Database
+
+You can find the GitHub Advisory Database in [this](https://github.com/advisories?query=mail+type%3Areviewed) and [this](https://github.com/github/advisory-database) links. This is a database of all security vulnerabilities which has been found in open-sourced software. This is a good place to learn security vulnerabilities. Also, you can take advantage of them to learn fuzzing their source code. 
 
 
 
