@@ -1,6 +1,6 @@
 ---
 title: 'Microsoft Anti-Virus Hardening'
-date: 2022-12-08
+date: 2022-03-08
 permalink: /posts/2022/MicrosoftAntiVirusHardening/
 tags:
   - security
