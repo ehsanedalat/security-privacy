@@ -8,6 +8,7 @@ You can find the latest security news from this [link](https://ehsanedalat.githu
 ### Security Posts
 
 - `2022`
+  - [Votiro (File Sanitization Solution)](./posts/2022/votiro/)
   - [Microsoft Anti-Virus Hardening](./posts/2022/MicrosoftAntiVirusHardening/) 
   - [GitHub Advisory Database](./posts/2021/GitHubAdvisoryDatabase/)
   - [Cisco Secure Architecture Guideline](./posts/2022/SAFE/) 
