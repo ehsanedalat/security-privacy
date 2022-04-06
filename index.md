@@ -8,6 +8,7 @@ You can find the latest security news from this [link](https://ehsanedalat.githu
 ### Security Posts
 
 - `2022`
+  - [Achieving DevSecOps with Open-Source Tools](./posts/2022/SVST/) 
   - [ModSecurity (Open Source WAF Solution)](./posts/2022/ModSecurity/)
   - [Votiro (File Sanitization Solution)](./posts/2022/votiro/)
   - [Microsoft Anti-Virus Hardening](./posts/2022/MicrosoftAntiVirusHardening/) 
