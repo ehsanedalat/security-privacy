@@ -7,9 +7,9 @@ tags:
   - passwords
 ---
 ## Have your passwords been compromised now?
-Selecting a complex password is the first and foremost task that users can do to protect their account security. Check in the below link to find out if your password is currently compromised. #security #passwords 
+Selecting a complex password is the first and foremost task that users can do to protect their account security. Check in the below link to find out if your password is currently compromised.
 
-Link: https://haveibeenpwned.com/
+Link: [haveibeenpwned.com](https://haveibeenpwned.com/)
 
 <!-- Default Statcounter code for My Homepage http://ehsanedalat.github.io -->
 <script type="text/javascript">
