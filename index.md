@@ -8,6 +8,7 @@ You can find the latest security news from this [link](https://ehsanedalat.githu
 ### Security Posts
 
 - `2022`
+  - [Have your passwords been compromised now?](./posts/2022/passwords/)
   - [Open-Source Password Management Solutions](./posts/2022/PMTool/)
   - [Achieving DevSecOps with Open-Source Tools](./posts/2022/SVST/) 
   - [ModSecurity (Open Source WAF Solution)](./posts/2022/ModSecurity/)
